@@ -1,0 +1,23 @@
+<resources>
+    <string name="home">Home</string>
+    <string name="back">Back</string>
+    <string name="buttons">Buttons</string>
+    <string name="checkboxes">Checkboxes</string>
+    <string name="chips">Chips</string>
+    <string name="date">Date</string>
+    <string name="feathertop_content_description">Feathertop image</string>
+    <string name="dialog">Dialog</string>
+    <string name="divider">Divider</string>
+    <string name="progressBar">ProgressBar</string>
+    <string name="radio">Radio</string>
+    <string name="switch">switch</string>
+    <string name="dial">Dial</string>
+
+
+
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="world_clocks">World Clocks</string>
+    <string name="find_meeting">Find Meeting Time</string>
+    <string name="done">Done</string>
+</resources>
